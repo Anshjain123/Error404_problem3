@@ -1,0 +1,20 @@
+{
+  "name": "hackfest-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "sharp": "^0.33.5",
+    "ssh2-sftp-client": "^11.0.0",
+    "tesseract.js": "^5.1.1"
+  }
+}
