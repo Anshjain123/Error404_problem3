@@ -76,7 +76,7 @@
     },
     "inputPath": {
       "transactions": "/Users/aadarsha.panta/Downloads/problem1/transactions.json",
-      "problem3":"/home/ec2-user/problem2"
+      "problem3":"/home/ec2-user/problem3/checks"
 
     },
     "outputPath": {
