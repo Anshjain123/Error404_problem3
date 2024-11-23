@@ -76,10 +76,10 @@
     },
     "inputPath": {
       "transactions": "/Users/aadarsha.panta/Downloads/problem1/transactions.json",
-      "problem3":"/Users/ansh.jain/Desktop/checks/checks"
+      "problem3":"/home/ec2-user/problem2"
 
     },
     "outputPath": {
-        "problem3" : "/Users/ansh.jain/Desktop/Problem3Output"
+        "problem3" : "./"
     }
   }
